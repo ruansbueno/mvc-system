@@ -1,0 +1,15 @@
+{
+    "name": "ruansbueno/mvc",
+    "autoload": {
+        "psr-4": {
+            "mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ruansbueno",
+            "email": "ruansbueno@gmail.com"
+        }
+    ],
+    "require": {}
+}
